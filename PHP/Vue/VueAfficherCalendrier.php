@@ -102,9 +102,9 @@ function afficherCalendrier(){
 	Se connecter
 	</button>
 	
-	<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+	<a href="../Model/inscription.php"> <button type="button" class="btn btn-primary">
 	Créer un compte
-	</button>
+	</button> </a>
   </nav>
   
   <section>
